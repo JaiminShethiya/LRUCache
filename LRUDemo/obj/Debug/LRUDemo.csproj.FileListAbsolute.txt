@@ -1,0 +1,7 @@
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\LRUDemo\bin\Debug\LRUDemo.exe.config
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\LRUDemo\bin\Debug\LRUDemo.exe
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\LRUDemo\bin\Debug\LRUDemo.pdb
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\LRUDemo\obj\Debug\LRUDemo.csprojAssemblyReference.cache
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\LRUDemo\obj\Debug\LRUDemo.csproj.CoreCompileInputs.cache
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\LRUDemo\obj\Debug\LRUDemo.exe
+D:\Projects\James Project\Demo Project\ScaleTechPractical\ConsoleApp1\LRUDemo\obj\Debug\LRUDemo.pdb
